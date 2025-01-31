@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="Day 2: Still resolving spacy error...">
+    <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="Resolved spacy error after downloading pydantic==1.10.13 and spacy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mian.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mian.ipynb" afterDir="false" />
     </list>
@@ -87,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731963510314</updated>
       <workItem from="1738280160317" duration="2302000" />
-      <workItem from="1738361588291" duration="2687000" />
+      <workItem from="1738361588291" duration="3679000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -153,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738362259740</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Resolved spacy error after downloading pydantic==1.10.13 and spacy">
+      <option name="closed" value="true" />
+      <created>1738365959754</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738365959754</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +171,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="resolving spacy error" />
     <MESSAGE value="Day 2: Still resolving spacy error..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 2: Still resolving spacy error..." />
+    <MESSAGE value="Resolved spacy error after downloading pydantic==1.10.13 and spacy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolved spacy error after downloading pydantic==1.10.13 and spacy" />
   </component>
 </project>
