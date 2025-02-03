@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="Fixed entities output">
+    <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mian.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mian.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +91,7 @@
       <workItem from="1738400082069" duration="2916000" />
       <workItem from="1738411528316" duration="4574000" />
       <workItem from="1738490475484" duration="1591000" />
-      <workItem from="1738498345373" duration="1429000" />
+      <workItem from="1738498345373" duration="2329000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -268,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738536559210</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="...">
+      <option name="closed" value="true" />
+      <created>1738541708488</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1738541708488</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,6 +290,7 @@
     <MESSAGE value="Resolved spacy error after downloading pydantic==1.10.13 and spacy" />
     <MESSAGE value="Working to improve the output by exploring the rake_nltk library..." />
     <MESSAGE value="Fixed entities output" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed entities output" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
