@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mian.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mian.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +93,8 @@
       <workItem from="1738411528316" duration="4574000" />
       <workItem from="1738490475484" duration="1591000" />
       <workItem from="1738498345373" duration="4391000" />
-      <workItem from="1738713616512" duration="3119000" />
+      <workItem from="1738713616512" duration="4854000" />
+      <workItem from="1738883172980" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -309,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738669500081</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="...">
+      <option name="closed" value="true" />
+      <created>1738871482853</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1738871482854</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
