@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="...">
+    <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="Clearing all output">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +92,7 @@
       <workItem from="1738490475484" duration="1591000" />
       <workItem from="1738498345373" duration="4391000" />
       <workItem from="1738713616512" duration="4854000" />
-      <workItem from="1738883172980" duration="2661000" />
+      <workItem from="1738883172980" duration="4493000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -334,7 +334,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738970313856</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="...">
+      <option name="closed" value="true" />
+      <created>1738971254978</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1738971254978</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Clearing all output">
+      <option name="closed" value="true" />
+      <created>1738972621513</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1738972621513</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,6 +366,7 @@
     <MESSAGE value="Implementation: Resume Matching" />
     <MESSAGE value="Implementation: Web Interface with Streamlit" />
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="Clearing all output" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clearing all output" />
   </component>
 </project>
